@@ -68,7 +68,7 @@ controle sobre suas finanças.
 </head>
 <body>
     <header>
-        <h1>Controle Financeiro</h1>
+        <h1>Sobre o Software</h1>
     </header>
     
     <div class="content">
