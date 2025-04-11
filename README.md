@@ -3,7 +3,6 @@
 É um software que auxilia no controle financeiro. Nele é possível cadastrar contas, valores, despesas, ganhos e realizar movimentações, para exercer um 
 controle sobre suas finanças.
 
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -73,10 +72,6 @@ controle sobre suas finanças.
     </header>
     
     <div class="content">
-        <div class="image-container">
-            <!-- Substitua o src abaixo pelo link da imagem enviada via e-mail -->
-            <img src="https://via.placeholder.com/800x400.png?text=Imagem+de+Controle+Financeiro" alt="Controle Financeiro">
-        </div>
         
         <p><strong>O software Controle Financeiro foi desenvolvido para o web, utilizando linguagens de programação, tais como PHP, JavaScript, HTML entre outros, e tem a finalidade de ajudar o indivíduo a controlar suas finanças.</strong></p>
         
